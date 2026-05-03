@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Single-file vanilla web game (`tictactoe.html`). No build step, no dependencies, no package manager. Open the file directly in a browser to run it.
+Single-file vanilla web game (`index.html`). No build step, no dependencies, no package manager. Open the file directly in a browser to run it.
 
 ## Architecture
 
